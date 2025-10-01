@@ -16,7 +16,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # ---------- CONFIG ----------
-EXCEL_FILE = "sheets/Catawiki.xlsx"
+EXCEL_FILE = "sheets/Catawiki14.xlsx"
 CHECKPOINT_FILE = "crawler_checkpoint.json"
 LOG_FILE = "crawler.log"
 
