@@ -3,3 +3,6 @@ backup/
 *.log
 __pycache__/
 *.pyc
+text/
+text1/
+*.json
